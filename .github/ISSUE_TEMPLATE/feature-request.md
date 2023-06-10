@@ -1,8 +1,8 @@
 ---
-name: "\U0001F6E0 Feature request"
+name: "🛠 Feature request"
 about: Suggest an idea for this project
-title: ''
-labels: ''
+title: '[🛠Feat]'
+labels: ['feature']
 assignees: ''
 
 ---
